@@ -6,7 +6,6 @@ Este proyecto consiste en el desarrollo de un sistema de detección de phishing 
 
 El objetivo principal es clasificar automáticamente una URL como legítima o phishing a partir de diferentes características extraídas de su estructura, como la longitud de la URL, el uso de HTTPS, la presencia de palabras sospechosas, el número de subdominios o la aparición de patrones habituales en enlaces maliciosos.
 
-Este proyecto está relacionado con tareas habituales en entornos SOC/MDR, donde los analistas de ciberseguridad deben investigar URLs sospechosas, validar indicadores de compromiso y determinar si una actividad puede ser legítima o maliciosa.
 
 ---
 
